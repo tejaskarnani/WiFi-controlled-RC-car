@@ -4,9 +4,9 @@
 We wrote a program that turns your raspberry pi into a Radio controller for RC cars without any additional hardware. Using this project, you can drive any cheap toy-grade RC car programatically with your raspberry pi.
 Note that running this program turns your pi into a rather powerful radio transmitter.
 
-![alt text](https://github.com/tejaskarnani/WiFi-controlled-RC-car/blob/master/Required%20Components.jpeg)
-
 ### Components Required
+<img src="https://github.com/tejaskarnani/WiFi-controlled-RC-car/blob/master/Required%20Components.jpeg" height="640" width="480">
+
 * 4x4 drive RC car
 * Raspberry pi 3, or higher
 * L293D motor driver shield for Arduino.
@@ -30,7 +30,7 @@ Note that running this program turns your pi into a rather powerful radio transm
 
 
 ### Disclaimer
-Do not use this code unless you understand what it does, what frequencies it might interfere with, what frequencies are allowed, what is legal in your country, etc. I assume no responsibility for your actions or for any problems running this program may cause
+Do not use this code unless you understand what it does, what frequencies it might interfere with, what frequencies are allowed, what is legal in your country, etc. I assume no responsibility for your actions or for any problems running this program may cause.
 
 ## Credits
 bskari
