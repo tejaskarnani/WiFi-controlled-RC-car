@@ -20,7 +20,7 @@ Note that running this program turns your pi into a rather powerful radio transm
 * _Installing files in the repository (change)_
 * On your raspberry pi, open two terminal shells to run simulaneously. It is also helpful to open a browser window at this time (used later)
 * Navigate to the folder pi_rc_master and type **sudo -s**. Then in the prompt, type **./pi_pcm -v**. 
-* In the second terminal shell, while the first one is running, after navigating to the folder, run the hostfiles.py in python by using **python3 host_files.py**.
+* In the second terminal shell, while the first one is running, after navigating to the folder, run the host files in python by using **python3 host_files.py**.
 * This command returns two urls. Copy the first, and paste it in the browser window. The browser may return a warning, saying that the page is not secure. Override this by going to 'advanced' and then clicking on 'Go to' address.
 * In the list of files, go to **watch.html** to see a preview of the video from the Pi Camera.
 * Go back to the list of files, then to **control.html**. Scroll down to the option to "Select JSON Parameter file". The files in the repository have 4 parameter files. You need to figure out which JSON works with your choice of Motor Driver and RC Car. For us, it was ***jsbr-ford-mustang-27mhz.json***
