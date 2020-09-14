@@ -5,7 +5,7 @@ We wrote a program that turns your raspberry pi into a Radio controller for RC c
 Note that running this program turns your pi into a rather powerful radio transmitter.
 
 ### Components Required
-<img src="https://github.com/tejaskarnani/WiFi-controlled-RC-car/blob/master/Required%20Components.jpeg" height="640" width="480">
+<img src="https://github.com/tejaskarnani/WiFi-controlled-RC-car/blob/master/Required%20Components.jpeg" height="640" width="480" rotate="90">
 
 * 4x4 drive RC car
 * Raspberry pi 3, or higher
